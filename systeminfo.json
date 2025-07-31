@@ -1,0 +1,1604 @@
+[
+  {
+    "Systemnavn": "A-krim",
+    "UID": "9b523278-f82f-4c30-a81c-08aa24a28075",
+    "Stjerner": 0,
+    "Driftsgruppe": "Innsats og RPA"
+  },
+  {
+    "Systemnavn": "A-ordning",
+    "UID": "98ae4f73-a0c8-47cd-9f96-9a9089b30fc6",
+    "Stjerner": 3,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Adra Match",
+    "UID": "f7d97aae-dc42-4470-9c7d-6ac28cbfdf2b",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Agresso Petroleum (Unit4 Business World)Ekstern",
+    "UID": "0a2999e3-dd87-4f91-be40-2ed12dc22a8a",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Agresso SKE  (Unit4 ERP)",
+    "UID": "f01b3233-79a5-4c7c-9ac9-33318a955287",
+    "Stjerner": 0,
+    "Driftsgruppe": "Bidrag og tilbakebetaling"
+  },
+  {
+    "Systemnavn": "Agresso Særregnskap/Toll (Unit4 Business World)",
+    "UID": "614ba98e-a642-4597-a179-486dfa04b24c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Leveransestøtte"
+  },
+  {
+    "Systemnavn": "Aksjonærregisteret (AR)",
+    "UID": "12b5cc67-3470-45e7-adb9-7ba7b9b1ea05",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Aktiv konto",
+    "UID": "fb3ba6bb-11a5-4e69-bd48-d2860d3f8b48",
+    "Stjerner": 6,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "AlertaOvervåking",
+    "UID": "dc5fc1ca-8eae-43f3-9501-f5ace7ef3bbf",
+    "Stjerner": 9,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "Altinn",
+    "UID": "1f0a9f26-4d4b-4e4e-b298-05baca12e0ff",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Anmeldelsesregisteret",
+    "UID": "02887caf-91cf-4557-a4bc-97e171379682",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "ApplikasjonsplattformSkup",
+    "UID": "ccced494-f5a6-4e52-981e-849b03124b1c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "AR web (min aksjeoppgave)",
+    "UID": "fa379c62-f3d8-4312-9ac5-6166de0efd7f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Arena",
+    "UID": "1349f39c-8a09-4264-8b48-99b55787a926",
+    "Stjerner": 0,
+    "Driftsgruppe": "Bidrag og tilbakebetaling"
+  },
+  {
+    "Systemnavn": "Argus infoskjermStorskjermOvervåkingsskjerm",
+    "UID": "c0c6fa9e-f49e-4b4e-be5d-26e90262a1f8",
+    "Stjerner": 11,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "ATS",
+    "UID": "fd95c231-44d1-4aa7-9cd2-9c746fb2aa34",
+    "Stjerner": 10,
+    "Driftsgruppe": "Tilgangsstyring"
+  },
+  {
+    "Systemnavn": "Attest for skatt og avgift",
+    "UID": "db0af51d-a471-4006-9fca-0196919e5da3",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "AutosysEkstern",
+    "UID": "4bedcad7-0c8f-4c93-9993-1e165fe69cbe",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Avgiftsweb - kredittavtale",
+    "UID": "5ed7e0a6-610c-445e-88a3-728f04f89482",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Avgiftsweb - motorvognavgifter",
+    "UID": "8d801f35-a215-4c5c-9227-d832923b99e9",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Avgiftsweb - særavgifter innland",
+    "UID": "fd078a8f-bd7c-4e2a-b39c-8e134f139e1f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Avgiftsweb - vareførsel",
+    "UID": "52c6fcc7-9472-4558-822c-47d5c4e6561d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Avsavnsrenter",
+    "UID": "77345d5a-c00c-4d55-9e1a-5228ae7c7b34",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Avstemming server",
+    "UID": "a7526271-0f82-4b49-b719-11aeb2c936b9",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Azure AD B2C",
+    "UID": "dfa5fea7-8005-4bfd-a9bc-6b618d36a4d1",
+    "Stjerner": 0,
+    "Driftsgruppe": "Tilgangsstyring"
+  },
+  {
+    "Systemnavn": "BabelBank",
+    "UID": "d5f44b2a-2103-42ce-a178-24761045bff5",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Betalingsavtaler",
+    "UID": "dd45d4c8-1fc8-47be-838f-7f45e8656969",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "BI-målstyring",
+    "UID": "76072db8-7bf4-48f0-9b3f-bdd489cbc346",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "BI-OBI",
+    "UID": "6aafed88-9a91-4ba5-8d19-5a32c32ce9e3",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "BigIP",
+    "UID": "72d1b194-46db-44e0-bce5-cd6829057e0b",
+    "Stjerner": 1,
+    "Driftsgruppe": "Nettverk"
+  },
+  {
+    "Systemnavn": "Bisys",
+    "UID": "980ec892-535d-4799-b4e8-6a7e03ef24be",
+    "Stjerner": 0,
+    "Driftsgruppe": "Bidrag og tilbakebetaling"
+  },
+  {
+    "Systemnavn": "Bitbucket",
+    "UID": "d49f01d3-104a-4fa5-93ab-7c4144de6763",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Bloomberg",
+    "UID": "83b477f6-3539-4031-b517-e7b91c135edd",
+    "Stjerner": 0,
+    "Driftsgruppe": "Innsats og RPA"
+  },
+  {
+    "Systemnavn": "Blue Prism",
+    "UID": "00e5cf87-684b-432d-819c-16d73f9cd8f3",
+    "Stjerner": 0,
+    "Driftsgruppe": "Innsats og RPA"
+  },
+  {
+    "Systemnavn": "Calabrio",
+    "UID": "f256e62b-0458-43dd-a89a-53e22d51cc80",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Checkpoint VPN",
+    "UID": "872bd61e-3399-484e-821e-449a98fa43ea",
+    "Stjerner": 1,
+    "Driftsgruppe": "Nettverk"
+  },
+  {
+    "Systemnavn": "CICS (Stormaskin)",
+    "UID": "8cd02b0e-9744-458d-97da-8f9583ff2c55",
+    "Stjerner": 0,
+    "Driftsgruppe": "Stormaskin og arkiv"
+  },
+  {
+    "Systemnavn": "Citrix",
+    "UID": "2d8e7621-8482-4ef4-b0bb-38484ea3b83c",
+    "Stjerner": 5,
+    "Driftsgruppe": "Samhandling"
+  },
+  {
+    "Systemnavn": "CMDB / MCIS",
+    "UID": "23bb52e6-c6a1-4d9f-b0e6-c71d482921f8",
+    "Stjerner": 5,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "Confluence (Wiki)",
+    "UID": "95301668-53b1-44a9-a15d-f84c9874830e",
+    "Stjerner": 1,
+    "Driftsgruppe": "Utviklingsstøtte"
+  },
+  {
+    "Systemnavn": "Databricks og analyserom",
+    "UID": "37fbe9e1-c7c4-4905-9429-b76f4de7e008",
+    "Stjerner": 1,
+    "Driftsgruppe": "Data og analyse"
+  },
+  {
+    "Systemnavn": "Dataportalen",
+    "UID": "ebc4c245-1b3b-40d3-98a8-7213cb3e2307",
+    "Stjerner": 1,
+    "Driftsgruppe": "Data og analyse"
+  },
+  {
+    "Systemnavn": "Datasystem for utenlands og flyktningesaker (DUF)",
+    "UID": "76807aa5-4b95-4ccf-ab58-f5f2f5d96344",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Datavarehus (DVH)",
+    "UID": "2cd93721-f507-4c34-99b3-059c0be3f41a",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Delingslogg",
+    "UID": "2379b6a2-00df-4690-9598-1299a4b34731",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Demo-systemMats",
+    "UID": "439ec733-2cdf-4a93-8546-049669730f04",
+    "Stjerner": 12,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "Dialogarkiv",
+    "UID": "1c06f359-f84b-4fd4-ae25-01b300a7956e",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Dialogboks",
+    "UID": "4e96cd0e-f42e-4058-a01b-cdf21fafa275",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Digitale fullmaktsløsninger",
+    "UID": "be05baea-c3a0-401e-9a66-cd5f6ebd4be1",
+    "Stjerner": 0,
+    "Driftsgruppe": "Skatt prosesser og leveranser"
+  },
+  {
+    "Systemnavn": "Doculive (arkiv SIAN)",
+    "UID": "9f3ce6bd-e408-4bac-8399-1bbd9ede773d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Dokumenthåndtering",
+    "UID": "bcefb013-726a-4758-a1d4-8e9385b28e66",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "DVH MoSIAN",
+    "UID": "550e03e2-07ee-42c4-9cdf-ff5778bfd0e8",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "eBevis (deling)",
+    "UID": "d4426750-c04c-407b-832b-2e26ec6b86c2",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Eiendomsregisteret",
+    "UID": "abd5b98c-6775-424a-ae95-a9b1b45800c0",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Eksterne API-er for deling av skatt og inntekt",
+    "UID": "b640a350-7e8f-4d71-b3f5-03dea9fa803f",
+    "Stjerner": 11,
+    "Driftsgruppe": "Ukjent"
+  },
+  {
+    "Systemnavn": "Eksternt mottak",
+    "UID": "0b4cf926-02c6-4752-ba83-b51c574b06f7",
+    "Stjerner": 7,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "ElasticSearchDatabase",
+    "UID": "a2f6e977-01c9-4a49-86da-d19ece6d9325",
+    "Stjerner": 9,
+    "Driftsgruppe": "Database"
+  },
+  {
+    "Systemnavn": "Elements",
+    "UID": "1815f711-b458-4c93-93a1-b045fc72f6e0",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "ELIN",
+    "UID": "007cf7de-d469-4cbd-87eb-7d027c8a8333",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Elsær",
+    "UID": "d660b65c-9770-41ef-a7d8-7b17f283c6be",
+    "Stjerner": 1,
+    "Driftsgruppe": "Fastsetting avgift"
+  },
+  {
+    "Systemnavn": "Employee Self-service (ESS/DFØ)",
+    "UID": "28dc8a9d-2600-4b09-88a4-e7a56d2578ec",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Engangsavgift fastsettelse",
+    "UID": "912c91d1-9252-4996-95b4-8a4feea1ab06",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Enhetsregisteret (SKD-ER)",
+    "UID": "959e0b2a-5679-48b7-b6d6-4fc12e7e738c",
+    "Stjerner": 1,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Entra ID",
+    "UID": "fd6f400a-5238-49f7-86de-b643978351d6",
+    "Stjerner": 0,
+    "Driftsgruppe": "Tilgangsstyring"
+  },
+  {
+    "Systemnavn": "eSkattekort",
+    "UID": "150015ee-7ed6-4232-b3d3-ea2193211870",
+    "Stjerner": 1,
+    "Driftsgruppe": "Skatt og bidrag"
+  },
+  {
+    "Systemnavn": "Exchange",
+    "UID": "acbfcd24-f476-4ead-8a31-57536b4d4217",
+    "Stjerner": 1,
+    "Driftsgruppe": "Samhandling"
+  },
+  {
+    "Systemnavn": "Feed fra Toll",
+    "UID": "c83704ae-f954-4a5f-9a5b-4db84695982d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Feed til Toll",
+    "UID": "ace2b2d6-9234-41ba-a042-a2172a1e7720",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Felles betaling",
+    "UID": "649256e2-66a8-4d41-bac0-a12b382a6d7f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "9f4113fe-1bbd-4a9a-9444-c04e8850c8e5",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "a6d68555-db18-40fa-97da-da55a3a1a28d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Brukerflate"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "f5c9cdb1-2131-4c81-943e-eb45546f1de9",
+    "Stjerner": 4,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "18fd541c-253e-4d7b-acbc-ffe7c7671a6b",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "efbe5d86-5139-45f7-a577-e872ed8e302e",
+    "Stjerner": 4,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Folkeregisteret - ProdusentFREG",
+    "UID": "0cb62e63-d2e3-4c50-b556-6d5a726480f7",
+    "Stjerner": 4,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Formidlingstjeneste",
+    "UID": "3ff758e7-69bc-4a8d-94e6-b758b97262cd",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Github",
+    "UID": "a1bec774-30ef-40a5-8d81-d7aa9432cc04",
+    "Stjerner": 1,
+    "Driftsgruppe": "Skyplattform"
+  },
+  {
+    "Systemnavn": "GLD",
+    "UID": "493bbd4b-952e-4daa-badc-842722022dc0",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Gosys",
+    "UID": "88ca16ed-c9b5-4be6-a9c7-e396b32ffcdb",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Grafana",
+    "UID": "3016e34a-0b04-4ee2-a996-fbfc1ebd7c2c",
+    "Stjerner": 12,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "HMS-kortEkstern",
+    "UID": "4f87a153-919f-4f2a-866e-fedf38964963",
+    "Stjerner": 0,
+    "Driftsgruppe": "Innsats"
+  },
+  {
+    "Systemnavn": "Icinga",
+    "UID": "420fd481-d122-462e-ac5d-878f0168a51e",
+    "Stjerner": 7,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "ID-portenEkstern",
+    "UID": "c17c32d1-a3bc-40ab-b0d9-2cdad9ae99d3",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Identifiserings-web",
+    "UID": "3a877143-e2c6-4044-af86-4ed374e669d4",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Infotorg",
+    "UID": "6ffa0799-77a7-4c23-a16d-2c05ab9d2a74",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Infotrygd",
+    "UID": "71e8784b-0ab9-4f74-a0dc-d5e29b4d8b5c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "INMO (informasjonsmodell)",
+    "UID": "814780ef-f11c-4ba6-bb15-4232166e8972",
+    "Stjerner": 1,
+    "Driftsgruppe": "Folkeregisteret"
+  },
+  {
+    "Systemnavn": "Innkreving Kredittavtaler",
+    "UID": "267a03ba-1cde-47e5-91c0-610a9007317a",
+    "Stjerner": 1,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Innsending-Utsending-Web",
+    "UID": "58303c77-7832-4f72-9955-1cd59d284fdc",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Innsyn og fravikelse",
+    "UID": "db2342fe-5448-4945-b9b1-dbaef997dea1",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Inspire Brevløsning",
+    "UID": "9cc39017-170f-4dc0-be6c-ab1e16142f7f",
+    "Stjerner": 2,
+    "Driftsgruppe": "Avtaleforvaltning"
+  },
+  {
+    "Systemnavn": "Intranett",
+    "UID": "7ed1f411-f0b5-43bc-b383-1c557318e3f2",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Intune",
+    "UID": "91e997c3-03ce-4923-a260-e89ce8ca94e6",
+    "Stjerner": 0,
+    "Driftsgruppe": "Brukerflate"
+  },
+  {
+    "Systemnavn": "Jamf",
+    "UID": "bfc957f0-8c48-4a69-9e64-2ec3db2eb934",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Jira",
+    "UID": "1f16afdc-44a5-4ce2-9d95-238e81411a97",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Kafka",
+    "UID": "0aa1d99d-0d93-43c1-8b72-f8eef4363bda",
+    "Stjerner": 10,
+    "Driftsgruppe": "Database"
+  },
+  {
+    "Systemnavn": "Keesingapi (KEAP)",
+    "UID": "41b00c64-a330-4bfa-8b37-08aa87c79f04",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "KGO (kravgrunnlagsoverføring)",
+    "UID": "37a5af1e-dd78-4979-8264-0f2f88c78a9f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Kildeskatt på Renter&Royalties",
+    "UID": "6013e1a6-3031-4a24-8011-a711c0319e74",
+    "Stjerner": 6,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Kjøretøyinfo",
+    "UID": "1464ce4c-01ca-4611-9c33-a35de7053767",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Klausulinfo",
+    "UID": "f40b2202-5151-494b-86a2-22a9a954d680",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "KonkursinformasjonPart",
+    "UID": "f773861f-f324-4836-9e60-9512bdea3cc9",
+    "Stjerner": 1,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "KonkursregisteretEkstern",
+    "UID": "5b490b1b-789d-4488-ba0d-a3ba7ec29143",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Kontakt og reservasjonsregister (KRR)",
+    "UID": "59c97a3c-76ca-4126-b391-443b21803e3c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Portalløsninger"
+  },
+  {
+    "Systemnavn": "Kontoforespørsel",
+    "UID": "e472d7eb-4bc6-42b3-9cda-870ba941cb1a",
+    "Stjerner": 6,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Kontoløsning",
+    "UID": "cd580bc5-9aea-48e2-9ca4-70a696f544ed",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "KOSS",
+    "UID": "f33e80e5-4a44-4ca0-8ab3-449a72e2539b",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Krav og betaling",
+    "UID": "3dfc397e-bf01-439b-a798-32e1493dce74",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Kundeloggen",
+    "UID": "ff89d4e7-f527-4622-88ca-384883cd53d5",
+    "Stjerner": 3,
+    "Driftsgruppe": "Portalløsninger"
+  },
+  {
+    "Systemnavn": "Land-for-land (LLR rapporteringer)",
+    "UID": "f7c7b10e-554e-40c0-b518-f09c90c727b8",
+    "Stjerner": 1,
+    "Driftsgruppe": "Fastsetting opplysninger"
+  },
+  {
+    "Systemnavn": "Læringsportalen",
+    "UID": "a06ad99d-7314-41a9-85bb-4e6528546149",
+    "Stjerner": 1,
+    "Driftsgruppe": "Interne leveranser"
+  },
+  {
+    "Systemnavn": "Løsøreregisteret",
+    "UID": "72a03833-6117-447b-ae19-424e64f61344",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "7fbf59ec-8641-43b9-94c0-f1f89080f76e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "65faf94c-0767-4850-ae25-97076873214e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "a73dce5c-f75e-47e2-a587-fa7d8be6a9f5",
+    "Stjerner": 1,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "2448a451-b45e-466b-ab3b-b1914476723e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "081078c6-cdd2-49e1-85f8-9885b4ace479",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "deedb7f8-f378-4da8-b357-7aaaa86d2d07",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "54b6903c-18bb-4fbd-b646-8d7754ab1c0c",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Mattermost",
+    "UID": "c96d22fd-d4cc-4a16-803d-7b688792418a",
+    "Stjerner": 0,
+    "Driftsgruppe": "Utviklingsstøtte"
+  },
+  {
+    "Systemnavn": "Microsoft 365",
+    "UID": "e6197931-b2f2-4b62-8c0f-fa0109f6103c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Brukerflate"
+  },
+  {
+    "Systemnavn": "Microsoft 365 Copilot",
+    "UID": "8b361a47-138c-4e41-9b5d-89e941d35f37",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Min ID",
+    "UID": "60c470d8-2976-4b80-8d01-d5491e68383d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Min merverdiavgift",
+    "UID": "3b3613b3-b751-47e0-b6dd-a950b949969b",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Min side",
+    "UID": "e4cd86c3-45a9-4306-b1b9-e287a727eac0",
+    "Stjerner": 3,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Min skatt",
+    "UID": "ce22014b-dc03-482f-9cf5-d52e3f03c8e3",
+    "Stjerner": 4,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Mine inntekter og arbeidsforhold (innsynstjenesten)",
+    "UID": "5d919826-8743-4df2-bd5f-fff651872809",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "ModulisEkstern",
+    "UID": "688b1425-8e18-459f-ae22-dcb5ac36c35e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Motimate",
+    "UID": "da6da5bb-8ace-4005-b505-e67618cb65eb",
+    "Stjerner": 1,
+    "Driftsgruppe": "Interne leveranser"
+  },
+  {
+    "Systemnavn": "Motorvogn betaling",
+    "UID": "8ea8ab9f-2a64-40a6-9ce0-194587f7558c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Motorvognavgift avstemming",
+    "UID": "19c6a4af-24d6-485b-a415-605efbc73412",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "9db61fd8-fae1-45a6-b0cd-74964e20fe2b",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "15b6d4b3-4c9f-4274-b496-d37775a05347",
+    "Stjerner": 9,
+    "Driftsgruppe": "Database"
+  },
+  {
+    "Systemnavn": "Multikanal utsending (MKU)",
+    "UID": "3fcfb843-3cdd-4f5c-84e0-369273d9c139",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "MVA-Registreringsportal",
+    "UID": "f1a942f9-ef0f-48af-b045-d02a264a11be",
+    "Stjerner": 1,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "MVA-sak",
+    "UID": "a5055c6b-932e-4eac-ba97-0c3457906c1f",
+    "Stjerner": 5,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "MVA-sys",
+    "UID": "6a0b9f6a-7a0b-409e-a847-99e858c6ed44",
+    "Stjerner": 5,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Nasjonal rapportering av offentlig støtte (NROS)",
+    "UID": "f5428181-dee3-4eb8-8a88-495f1635150e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Grunnlagsdata"
+  },
+  {
+    "Systemnavn": "NAV Partnerportal",
+    "UID": "8446d588-1b0e-4408-9cab-61b188b31762",
+    "Stjerner": 0,
+    "Driftsgruppe": "Bidrag og tilbakebetaling"
+  },
+  {
+    "Systemnavn": "NemoQ/Ventus",
+    "UID": "ac41ee03-452f-47a8-85ee-e7156ce30b50",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "NETSEkstern",
+    "UID": "24aa5ef5-574c-4bff-9681-b14b485432ec",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Nettverk",
+    "UID": "77db4ca3-5253-40f6-b212-51c1d7982ddc",
+    "Stjerner": 1,
+    "Driftsgruppe": "Nettverk"
+  },
+  {
+    "Systemnavn": "Omregistrering - fastsettelse",
+    "UID": "ff44885c-6946-438a-98fc-bf6c20af222d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "OnDemand",
+    "UID": "1260e819-d35d-4b03-8a26-ce448cb94ac6",
+    "Stjerner": 0,
+    "Driftsgruppe": "Stormaskin og arkiv"
+  },
+  {
+    "Systemnavn": "Oppdrags- og arbeidsforholdsregister (OAR)",
+    "UID": "414d2c69-3aaf-4b11-bef7-edb3c3aef803",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Oppdragsgiverportalen",
+    "UID": "b2109436-2ef9-4f04-85db-adee22445d71",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Oppholdsstatus fra UDI (OHS)",
+    "UID": "2d4b84b5-97fa-4569-90a9-bc0a3d677bbf",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "OracleDatabase",
+    "UID": "dfa9814e-3cff-4fd4-8b4b-71fafcf3069d",
+    "Stjerner": 10,
+    "Driftsgruppe": "Database"
+  },
+  {
+    "Systemnavn": "OSK Klagevedtaksdatabase",
+    "UID": "4429d0cd-0871-415f-9064-65975d35a89f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Innsats og RPA"
+  },
+  {
+    "Systemnavn": "OTP",
+    "UID": "e92fb2c3-69c0-4f8b-b31e-8f4e952c3890",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "OTP tilsyn",
+    "UID": "8f349b1a-3842-4e91-b23c-747f0ad6471f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "PAM",
+    "UID": "1e7e8eaf-6852-40ee-ad92-0eb0626a6034",
+    "Stjerner": 0,
+    "Driftsgruppe": "Tilgangsstyring"
+  },
+  {
+    "Systemnavn": "Partsfordelingsweb",
+    "UID": "bd1011c5-2516-483d-8124-22ba2b833b54",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "PartsregisterPart",
+    "UID": "0039cfc3-2874-41f5-a80c-4bbbc9afd1af",
+    "Stjerner": 4,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Pensjonsgivende Inntekt (PGI)",
+    "UID": "7f453f17-9297-41b6-b355-fdb4b3ab381c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Peppol",
+    "UID": "ae5c26e2-16ec-4f49-b160-f5c1ca02cfd2",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Pesys",
+    "UID": "ec92fd36-ef99-42b5-b789-d9ef111b13d6",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "PostgreSQLDatabase",
+    "UID": "6fe0df95-61c9-493a-ac94-2d4ec466018a",
+    "Stjerner": 10,
+    "Driftsgruppe": "Database"
+  },
+  {
+    "Systemnavn": "Power Apps",
+    "UID": "c40047e2-f505-42a4-be18-cba226b3f467",
+    "Stjerner": 0,
+    "Driftsgruppe": "Brukerflate"
+  },
+  {
+    "Systemnavn": "Powerløsninger for Produkt og prosjekt",
+    "UID": "c41a9394-bdc0-4cf6-bf10-4137666b6054",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Pre- og Offboarding (Powerapp)",
+    "UID": "c97c0388-59d2-471d-96f0-2372277a6512",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Predator Andre Krav (PAK)",
+    "UID": "19ea2af0-2c2c-4924-b9ce-edcafbe36fa2",
+    "Stjerner": 0,
+    "Driftsgruppe": "Bidrag og tilbakebetaling"
+  },
+  {
+    "Systemnavn": "Puzzel",
+    "UID": "2ffb902d-a1f8-49d4-afe6-c488c8663dd7",
+    "Stjerner": 0,
+    "Driftsgruppe": "Portalløsninger"
+  },
+  {
+    "Systemnavn": "Radar",
+    "UID": "b80e3d17-ae56-4920-bcae-5bfcdb1fe945",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Rettighetspakke administrasjon",
+    "UID": "db026dcc-091e-43ee-b4f9-65b16da84356",
+    "Stjerner": 8,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Rettssaksregisteret",
+    "UID": "2b20f021-0739-458c-9963-a749b918b1a0",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Risikoregisteret digitalt",
+    "UID": "a8689d7c-52e1-45af-9a9a-a834242c6e4f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "RKA Portal",
+    "UID": "8f297de0-e7a3-442c-8a72-46bbffab46ce",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "RKA Refusjonsordning",
+    "UID": "d4347341-3d3c-4249-a138-30faab80cb2e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Rosita",
+    "UID": "cb6b13ac-78b2-43f3-b275-44e79489376b",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Rødboka online",
+    "UID": "e6845829-50ae-42e5-85a7-f40b300df695",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SAF-T Avstemming",
+    "UID": "6c122797-706e-4a6a-88ba-688bac8f970a",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SAF-T Mottak",
+    "UID": "b05d05aa-6225-47c3-ab22-719817cb1959",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Saga",
+    "UID": "d22dbf3a-c564-4ae7-b511-3bc0a184a092",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Saksmappe",
+    "UID": "43d89f59-875c-481c-96e1-70c47c951876",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Sanksjonering",
+    "UID": "a3e4eeec-0816-4c91-aab1-4cef95d0b3b2",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Sanksjonering-web",
+    "UID": "ec53d268-98c0-4202-8a8f-0382ca58051d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Innkreving fellesløsninger"
+  },
+  {
+    "Systemnavn": "SAP (Lønn og HR)Ekstern",
+    "UID": "11e067af-1a1d-42d3-aca9-20c07b6097e3",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Selvbetjening - motorvognavgifter",
+    "UID": "8b903c1f-2e4e-4b21-b31d-165bf004a4d4",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Selvbetjening for Overvåking (SFO)",
+    "UID": "09288e5e-ae70-416c-a30d-70df37ea4272",
+    "Stjerner": 6,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "Sharefile",
+    "UID": "e3eb9769-a5ce-43b1-927c-c60a393b1012",
+    "Stjerner": 3,
+    "Driftsgruppe": "Server og lagring"
+  },
+  {
+    "Systemnavn": "Sharepoint (Samhandlingsløsning)",
+    "UID": "bc378b82-dc33-4314-b4a1-a4604d6f6c85",
+    "Stjerner": 0,
+    "Driftsgruppe": "Samhandling"
+  },
+  {
+    "Systemnavn": "SIAN AN forliksrådsportal",
+    "UID": "d018a19e-eafc-4e12-a162-3ec2a738261b",
+    "Stjerner": 8,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIAN AN publikumsportalløsning / Mine saker",
+    "UID": "7abc5443-5bee-4419-b05c-46426d187e09",
+    "Stjerner": 6,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIAN Forms AN",
+    "UID": "53048bb9-e7d7-4ad3-b939-1bb85648a16c",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIAN Forms SI",
+    "UID": "e3892991-681c-477d-98d5-5b0640d0943f",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIAN NYS",
+    "UID": "6ef1b35c-7eed-4992-ac9c-ba5186749eff",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIAN Oppdragsgiverportalen",
+    "UID": "6d743e12-8c7e-48ee-91d3-a1ab11414c69",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIAN Skyldnerportalenmin innkrevingsismonye sismo",
+    "UID": "0b9ef485-a6ab-48ad-9dc0-3be96855fd9a",
+    "Stjerner": 3,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIAN utleggsdatabase",
+    "UID": "c19cd75c-044e-44d9-86af-2a31f246998e",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SIMS",
+    "UID": "a7b90d0a-3d42-4575-a88c-2006bb101610",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "SINFO",
+    "UID": "425a937d-42c9-4ad9-a0b2-252207cfb3fe",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "sismo.no",
+    "UID": "689c0e66-745d-4909-bd3e-35403557c2a5",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Skatt forhåndsfastsetting",
+    "UID": "fae1a627-9e0e-4786-848a-8ca6e53eb401",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt forskudd publikum",
+    "UID": "4834c9b0-f597-4db0-bb78-5696782dc56e",
+    "Stjerner": 3,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt forskudd saksbehandling",
+    "UID": "15686891-9d3a-46e6-8234-3f77961df49f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt kildeskatt",
+    "UID": "eaabca0b-b85c-439a-8e01-fc27a669303a",
+    "Stjerner": 7,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt Min Skatt publikum",
+    "UID": "561ce04b-445e-4c70-9bfe-7f29445696e4",
+    "Stjerner": 8,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt oppdragsregisteret",
+    "UID": "432b6275-f170-4f6c-874a-252d56cf1b06",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt Skatteliste publikum",
+    "UID": "80312af3-6da9-4e58-88f7-5952523218d2",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt Skattemelding eksterne API tjenester (SBS)",
+    "UID": "f28c9ffe-2517-4eca-863b-71111640b5da",
+    "Stjerner": 10,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Skatt Skattemelding publikum (SME)",
+    "UID": "068120fa-0986-461a-83aa-91ae6f3c0d39",
+    "Stjerner": 11,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt Skattemelding saksbehandling (SMIA)",
+    "UID": "dfb5b622-fa9b-46de-81cf-5cb0e18d4afe",
+    "Stjerner": 3,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt Skatteplikt publikum",
+    "UID": "571ade65-3860-45e9-bde3-71f1e813553d",
+    "Stjerner": 6,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatt Skatteplikt saksbehandling",
+    "UID": "c883789e-f20e-4869-acb3-d93739a5c379",
+    "Stjerner": 7,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatteavregning",
+    "UID": "1246b2c4-a9f5-46b0-8f6b-2a648e4a05d8",
+    "Stjerner": 10,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatteetaten.no",
+    "UID": "9d8d38d3-2e1a-418b-ad4d-9e66d21ab309",
+    "Stjerner": 0,
+    "Driftsgruppe": "Portalløsninger"
+  },
+  {
+    "Systemnavn": "Skatteinfo 1",
+    "UID": "6c776414-58fc-43bf-9272-f57097ec373e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatteinfo 2",
+    "UID": "59e520b0-67c6-4f54-a1f3-09bb261bd8cc",
+    "Stjerner": 3,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatteoppgjør og forhåndsfastsetting",
+    "UID": "7cf4107c-45ef-4b07-9b07-0f65dd254f13",
+    "Stjerner": 10,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skatteoppgjør upersonlige",
+    "UID": "7ef4e758-1c27-4993-ab79-16c3130062ae",
+    "Stjerner": 10,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Skattepatruljen Kontrollstøtte (SKS)",
+    "UID": "4f98220f-c659-4880-b543-bd7c1e35288d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SkattGPT",
+    "UID": "513bf67c-6c49-4954-ba9a-693c58acdcbb",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SkifteattestinformasjonPart",
+    "UID": "8634a24e-aa98-4166-8a27-5086716e3ef3",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Skjerming- og habilitetsregisteretPart",
+    "UID": "97812f57-3021-42e7-b5e9-e2bac775da7d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "SL",
+    "UID": "fd7cdc3d-5096-4c19-8d89-e40d8138ca97",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Snow",
+    "UID": "9c8e03e0-41e8-4145-9901-4f44d244560c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Lisenser"
+  },
+  {
+    "Systemnavn": "SOFIE",
+    "UID": "7211f555-35d3-4db1-a576-026c0759e5aa",
+    "Stjerner": 1,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SPAP Fastsettingsberegning",
+    "UID": "7c526780-a04e-4c46-afed-4e533030e7d8",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SPAP Forskudd forskuddstrekk personlig",
+    "UID": "0a2ba54a-62d4-46a1-bf64-4cf124c60f8e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SPAP Forskudd prognose personlig",
+    "UID": "2f4d5232-24e4-4c30-87ec-54f2a337574d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SPAP Forskudd upersonlig",
+    "UID": "1bbdb7ae-a5aa-4c25-8080-861e1dee5874",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SPAP Skatteberegning personlig",
+    "UID": "da152c3f-0734-42df-ba90-d1c38caf20c6",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SPAP Skatteberegning upersonlig",
+    "UID": "f934f64e-a7a3-48b5-922d-d3de5f0aff0b",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "SPAP Utsatt frist",
+    "UID": "47da5519-f8c7-4a2a-a20d-276e3980372f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Splunk",
+    "UID": "afe27b3d-8891-4fe8-aa43-7e661362684e",
+    "Stjerner": 5,
+    "Driftsgruppe": "Operativ sikkerhet"
+  },
+  {
+    "Systemnavn": "SporDok",
+    "UID": "46dd8144-34bd-42f8-b9f5-f5a9727549f6",
+    "Stjerner": 5,
+    "Driftsgruppe": "Avtaleforvaltning"
+  },
+  {
+    "Systemnavn": "SSV (Jira Service Management)",
+    "UID": "9e08b1ba-02f6-40c3-9675-3fe3c9a6bf78",
+    "Stjerner": 3,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Statusside Ekstern",
+    "UID": "e2021d81-09a1-4274-b442-456cd5efbef6",
+    "Stjerner": 9,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "STS/Bigbird",
+    "UID": "91794187-0ae7-4d1e-940c-d4586deb58e7",
+    "Stjerner": 10,
+    "Driftsgruppe": "Utviklingsplattform"
+  },
+  {
+    "Systemnavn": "Suppleringsskatt",
+    "UID": "c990aa81-3143-4766-8914-77acb43f8d9a",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Systemkatalogen",
+    "UID": "0755bc67-d5a0-4976-b985-e403cd52ac31",
+    "Stjerner": 2,
+    "Driftsgruppe": "Overvåking"
+  },
+  {
+    "Systemnavn": "Særavgift avgiftsweb",
+    "UID": "7498c81c-4acd-4a73-ab81-1e661225b15a",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Særavgift datavarehus",
+    "UID": "1c9597ed-83b2-4674-8f5f-3473b0523c34",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Særavgift elsær",
+    "UID": "4e606a1f-a212-4736-99db-851155fa6935",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Særavgift fisk",
+    "UID": "4b50b139-402b-480b-8c4e-32e1383ebe77",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Særavgift kravgrunnlag",
+    "UID": "7c273a87-99cc-45d4-889d-dde9755679d1",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Særavgift motorvogn avgiftsstatus",
+    "UID": "72497055-479c-4a4a-8651-147b944eaffe",
+    "Stjerner": 0,
+    "Driftsgruppe": "Motorvogn og særavgifter"
+  },
+  {
+    "Systemnavn": "Særavgift motorvogn betalingsportal (SVV)",
+    "UID": "3962a4a5-fcd1-414f-a49f-6c09314d3451",
+    "Stjerner": 3,
+    "Driftsgruppe": "Motorvogn og særavgifter"
+  },
+  {
+    "Systemnavn": "Særavgift motorvogn fastsetting",
+    "UID": "3e738b63-f3a1-43dd-92ab-03ad57779a44",
+    "Stjerner": 0,
+    "Driftsgruppe": "Motorvogn og særavgifter"
+  },
+  {
+    "Systemnavn": "Særavgift vareførsel",
+    "UID": "dfe7c532-0edf-4215-96d3-08028e80ab9a",
+    "Stjerner": 1,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Teamkatalogen",
+    "UID": "5ef553ba-9b08-4ec0-be21-1be7a6d32ce9",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Tekstlistekatalog",
+    "UID": "8475ed39-9096-4fc0-bcf0-6c05f9bb9513",
+    "Stjerner": 0,
+    "Driftsgruppe": "Behov og krav"
+  },
+  {
+    "Systemnavn": "Test Norge (Tenor)",
+    "UID": "141ae404-d658-4feb-8921-eeb2a5bb463d",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "TidBank",
+    "UID": "e67a8179-64eb-4bf0-adc5-c90ea8f7169f",
+    "Stjerner": 3,
+    "Driftsgruppe": "Applikasjonsdrift 2"
+  },
+  {
+    "Systemnavn": "Tilgangsportalen",
+    "UID": "3aae3758-115b-42ea-b435-eaaf7482cf51",
+    "Stjerner": 3,
+    "Driftsgruppe": "Tilgangsstyring"
+  },
+  {
+    "Systemnavn": "TIPS",
+    "UID": "a3690934-f5ce-45e6-857a-950d1acb58db",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ukjent"
+  },
+  {
+    "Systemnavn": "Tjenestepensjonsavtale-web",
+    "UID": "6055b38a-52b7-43f9-bc68-13add2e7953b",
+    "Stjerner": 0,
+    "Driftsgruppe": "Fellesløsninger"
+  },
+  {
+    "Systemnavn": "Tolldeklarasjoner - avgift ved inn og utførsel",
+    "UID": "44287a72-2805-444e-a001-fd3ed3519a8f",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Tollportalen/Toll tilgangsportal",
+    "UID": "6c0fe752-7030-43d1-ad2b-4c40f11f669b",
+    "Stjerner": 0,
+    "Driftsgruppe": "Fastsetting avgift"
+  },
+  {
+    "Systemnavn": "Trekkontroll",
+    "UID": "010ca3da-67a7-45b9-aa14-c4438e0efc37",
+    "Stjerner": 0,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "TVINN",
+    "UID": "ec394708-b7d7-42f9-9f70-cb0aa8bd7c12",
+    "Stjerner": 0,
+    "Driftsgruppe": "Fastsetting avgift"
+  },
+  {
+    "Systemnavn": "UC-Spektra",
+    "UID": "18c6033c-e493-41fe-9361-6de53e1eeb8c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Uniflow (sikkerprint)",
+    "UID": "820c5fce-0288-4bdc-a9da-69025128aa5e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Brukerflate"
+  },
+  {
+    "Systemnavn": "Unit4",
+    "UID": "0e72a79e-a6b1-4502-8afe-b4432588bbf5",
+    "Stjerner": 0,
+    "Driftsgruppe": "Økonomi og styring"
+  },
+  {
+    "Systemnavn": "Utleggsbasen (UB)",
+    "UID": "7f545787-4a47-40f2-8aeb-d6378e11987c",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Utvekslingsarkiv",
+    "UID": "42ad3d6c-e2c4-4665-b3a2-95337d8a6eee",
+    "Stjerner": 6,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "Valutaregisteret",
+    "UID": "8295f834-2805-425d-abd1-a65889cf6750",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Ukjent",
+    "UID": "e53ac244-c988-45e1-b2c6-54c4989291aa",
+    "Stjerner": 1,
+    "Driftsgruppe": "Brukerflate"
+  },
+  {
+    "Systemnavn": "Vektårsavgift fastsettelse",
+    "UID": "4a4cda70-ec8e-4bcc-af9a-727f832f4464",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "VIS",
+    "UID": "07559ee2-c97d-4a0e-977a-9d8ecab248e0",
+    "Stjerner": 9,
+    "Driftsgruppe": "Applikasjonsdrift 1"
+  },
+  {
+    "Systemnavn": "VMware Horizon",
+    "UID": "3bfe7ce8-d0ba-41aa-8126-f53ee736c3d3",
+    "Stjerner": 1,
+    "Driftsgruppe": "Brukerflate"
+  },
+  {
+    "Systemnavn": "vRA portalen",
+    "UID": "58bb6722-89df-409d-a345-d9e9c75b799b",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Vrakpant og driftstilskudd fastsettelseEkstern",
+    "UID": "65017e93-7324-4700-bffa-a16f5cc96bb8",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  },
+  {
+    "Systemnavn": "Vraksys",
+    "UID": "cddc765b-4524-444f-8610-9bdb1306a664",
+    "Stjerner": 1,
+    "Driftsgruppe": "Motorvogn og særavgifter"
+  },
+  {
+    "Systemnavn": "WAN linjer til kontorsteder",
+    "UID": "000bc259-b2bb-4bd8-8240-759d9893758b",
+    "Stjerner": 1,
+    "Driftsgruppe": "Kjerneplattform"
+  },
+  {
+    "Systemnavn": "Webcruiter",
+    "UID": "a63021fb-0854-4586-b88d-4c8e9e009d9e",
+    "Stjerner": 0,
+    "Driftsgruppe": "Ingen driftsgruppe"
+  }
+]
